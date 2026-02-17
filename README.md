@@ -51,5 +51,4 @@ A bookmark manager built with Next.js, Supabase, and Tailwind CSS. Users can sig
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/smart-bookmark-app.git
-cd smart-bookmark-app
+git clone https://github.com/iamashishnishad/smartBookmarks.git
